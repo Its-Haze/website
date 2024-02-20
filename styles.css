@@ -143,6 +143,16 @@ body {
 }
 
 
+.background {
+    background-image: url('cat_leaves.png');
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+.glassy-effect {
+    backdrop-filter: blur(60px);
+}
+
 /*
  Footer 
 */
